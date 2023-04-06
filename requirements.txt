@@ -6,7 +6,6 @@ The following python libraries are required to run this program :
 To install these libraries first of all make sure you have a python compiler installed (preferably vscode). Then open command prompt and run the following line: 
 pip install numpy opencv-python pillow
 
-After installation has been completed download the whole repository zip file ( click on green button code and then download zip) .
-Extract zip file -> Open folder after extraction -> Run code.py using your python compiler .
+After installation has been completed run code.py using your python compiler .
 
 Thank You 

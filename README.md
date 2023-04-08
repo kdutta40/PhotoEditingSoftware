@@ -1,7 +1,7 @@
 # PhotoEditingSoftware
 I developed this photo editing software using python (tkinter and OpenCv)
 
-Download the whole repository zip file ( click on green button code and then download zip) .
-Extract zip file -> Open folder after extraction
+Download setup using this link :
+https://drive.google.com/file/d/1auQ_hRke0EXs90sjhunguDZpwn5yfVIw/view
 
-Read requirements.txt for directions for running the code
+install setup -> open folder -> run code.exe
